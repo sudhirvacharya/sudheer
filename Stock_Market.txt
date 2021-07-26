@@ -1,0 +1,85 @@
+ moneycontrol check
+ Mutual fund types
+ 1.Equity Mutual fund--->investing in stock
+ 2.Debt MF----->investing in debt
+ 3.hybrid MF--->Mixing both above 1 and 2
+ 4.solution oriented MF-->vivah schem,education scheme
+ 5.other MF(index fund)---> Direcly investing in nifty,sensex
+ 
+ 
+  
+ Liquid Mutual fund-->PARK UR SHORT TERM MONEY
+ 1.invests in security
+ 2.no locking period
+ 3.7% return 
+ 4.icic prudential
+ 5.immediate we will get back
+ 6.certian precaution we should take 
+ 7.check entry and exit load (1 yr minimum stay)
+ 8.Risk--->some sort of risk
+ 9.low risk
+ 10.icici prudential
+ 
+ Best Investment Ideas! Share Market Strategy To Invest For Long Term 
+ By CA Rachna Ranade
+ 
+ 
+ Liquidity
+ -->how fast you can convet your assets into cash
+ high liquid -->stock market--->easily convert asset into money
+ low liquid  -->real esate --->req time to convert into money
+ 
+ Commodity
+ agricuture, raw matreil, metal
+ 
+ Leverage
+ -->taking loan n investing something getting profit
+ ex:real estate
+ 
+ 
+ bid-ask spread
+ 
+ Derivative
+ -->fwd, future, option , swap
+ -->fwd and swap not coming under trading
+ -->future and option coming under tradinng
+ -->deriavtive used for hedging and speculation
+ 
+ 
+ 
+ cfd(contract for diffrence)
+ 
+ volatility
+ -->up n down market movement
+ --> hih volaitility bring scare to people
+ --?low volatility  its looks like stable..small variation in stock
+ 
+ index 
+ 
+ stock
+ 
+ short selling
+ 
+ 
+ /*------------Mutual funds---------------*/
+ 
+ short term
+ -->debt
+ 
+ long term
+ --->lumpsum
+ -->SIP
+ 
+ 
+ MF scheme
+ Large Cap ---> risk:low--> return low  (they will invest in well established company )
+ Mid cap ---> risk:moderate  Return:modreta moderate compny ---> moderate Return
+ small cap---> risk :high   return-->high   ---> they will invest insmall company
+ 
+ Index fund
+ nifty 50 and sensex index fund  (best choice ...direct)
+ 
+ 
+ ref:
+ moneyctrl
+ https://www.screener.in/features/
